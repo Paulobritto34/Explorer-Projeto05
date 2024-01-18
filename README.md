@@ -23,6 +23,9 @@ Esse projeto é uma página de Receita de um cheesecake de frutas
 
 <br>
 
+Acesse o projeto: <a href="">Clique aqui</a>
+
+<br>
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
