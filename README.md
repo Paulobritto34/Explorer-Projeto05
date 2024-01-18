@@ -23,7 +23,7 @@ Esse projeto é uma página de Receita de um cheesecake de frutas
 
 <br>
 
-Acesse o projeto: <a href="">Clique aqui</a>
+Acesse o projeto: <a href="https://paulobritto34.github.io/Explorer-Projeto05/">Clique aqui</a>
 
 <br>
 ## 🚀 Tecnologias
