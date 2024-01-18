@@ -1,6 +1,6 @@
-<h1 align="center"> OAK - Saúde </h1>
+<h1 align="center"> Cheesecake - Projeto 05 - Explorer RocketSeat </h1>
 <p align="center">
-Esse projeto é a solução para uma boa comunicação entre pacientes e médicos, criado para empresa OAK.
+Esse projeto é uma página de Receita de um cheesecake de frutas
 </p>
 
 <p align="center">
@@ -13,14 +13,14 @@ Esse projeto é a solução para uma boa comunicação entre pacientes e médico
 
 <h2 align="center"> Versão Web  </h2>
 
-![prewiew](./.github/home.PNG)
+![image](https://github.com/Paulobritto34/Explorer-Projeto05/assets/98286250/5890eb7c-2ec7-491d-9473-15b8f9c17d1f)
 
 <br>
 
 <h2 align="center"> Versão Mobile </h2>
 
 <p align="center">
-  <img alt="imagem-phone" src="./.github/home-cel.PNG" width="50%">
+  ![image](https://github.com/Paulobritto34/Explorer-Projeto05/assets/98286250/ead4382f-4676-4b43-a715-0ccd132b86bc)
 </p>
 
 <br>
@@ -31,8 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ---
 
-Feito por Daiane Farias 👋  [Me acompanhe nas redes sociais!](https://daiaanebarbosaf.github.io/rocketlinks/)
+Feito por Paulo Brito 🧐
