@@ -18,8 +18,10 @@ Esse projeto é uma página de Receita de um cheesecake de frutas
 <br>
 
 <h2 align="center"> Versão Mobile </h2>
+<div align="center"> 
+![image](https://github.com/Paulobritto34/Explorer-Projeto05/assets/98286250/47c922d4-c69d-4b89-a011-e2901c939ec7)
+</div>
 
-![image](https://github.com/Paulobritto34/Explorer-Projeto05/assets/98286250/a16dd47d-6901-4f24-98b2-130734f824c0)
 
 <br>
 
